@@ -2,7 +2,7 @@
 title: "Integrating geometric models, site images and GIS based on Google Earth and Keyhole Markup Language"
 collection: publications
 permalink: https://www.sciencedirect.com/science/article/pii/S0926580517303333
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about heterogeneous information integration and visualization for site information magement using KML and Google Earth.'
 date: 2018-02-01
 venue: 'Journal 1'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0926580517303333'
