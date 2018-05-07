@@ -11,7 +11,7 @@ excerpt: 'This paper is about heterogeneous information integration and visualiz
 '
 date: 2018-02-01
 venue: 'Automation in Construction'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0926580517303333'
+paperurl: 'https://www.sciencedirect.com'
 citation: 'Duanshun Li and Ming Lu (2018). &quot;Integrating geometric models, site images and GIS based on Google Earth and Keyhole Markup Language.&quot; <i>Automation in Construction</i>. 89(2018):317-331.'
 ---
 
