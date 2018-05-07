@@ -1,7 +1,7 @@
 ---
 title: "Integrating geometric models, site images and GIS based on Google Earth and Keyhole Markup Language"
 collection: publications
-permalink: https://www.sciencedirect.com/science/article/pii/S0926580517303333
+permalink: /publications/2018-autocon-01
 excerpt: 'This paper is about heterogeneous information integration and visualization for site information magement. It integrates unordered images, geometric models and the 3D GIS based on Google Earth and Keyhole Markup Language.
 
 <div align="center">
@@ -11,7 +11,7 @@ excerpt: 'This paper is about heterogeneous information integration and visualiz
 '
 date: 2018-02-01
 venue: 'Automation in Construction'
-paperurl: 'https://www.sciencedirect.com'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0926580517303333'
 citation: 'Duanshun Li and Ming Lu (2018). &quot;Integrating geometric models, site images and GIS based on Google Earth and Keyhole Markup Language.&quot; <i>Automation in Construction</i>. 89(2018):317-331.'
 ---
 
