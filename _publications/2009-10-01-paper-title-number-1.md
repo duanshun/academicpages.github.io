@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Integrating geometric models, site images and GIS based on Google Earth and Keyhole Markup Language"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://www.sciencedirect.com/science/article/pii/S0926580517303333
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2018-02-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0926580517303333'
+citation: 'Duanshun Li and Ming Lu (2018). &quot;Integrating geometric models, site images and GIS based on Google Earth and Keyhole Markup Language.&quot; <i>Automation in Construction</i>. 89(2018). 317-331.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
