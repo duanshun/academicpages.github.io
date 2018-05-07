@@ -83,10 +83,10 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Edmonton,Canada"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
-  bitbucket        : 
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : d.shun.lee@gmail.com
+  uri              : 
+  bitbucket        : dshunlee
   codepen          :
   dribbble         :
   flickr           :
