@@ -2,7 +2,7 @@
 title: "Integrating geometric models, site images and GIS based on Google Earth and Keyhole Markup Language"
 collection: publications
 permalink: https://www.sciencedirect.com/science/article/pii/S0926580517303333
-excerpt: 'This paper is about heterogeneous information integration and visualization for site information magement. It Integrates unordered images, geometric models and the 3D GIS based on Google Earth and Keyhole Markup Language.
+excerpt: 'This paper is about heterogeneous information integration and visualization for site information magement. It integrates unordered images, geometric models and the 3D GIS based on Google Earth and Keyhole Markup Language.
 
 <div align="center">
   <img src="/images/18-autocon-01-frame.jpg" width="700px" />
