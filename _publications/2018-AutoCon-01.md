@@ -22,11 +22,6 @@ The present research proposes an analytical methodology to automatically generat
   <p>Methodology overview.</p>
 </div>
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S0926580517303333).
-
-Recommended citation: 'Duanshun Li and Ming Lu (2018). &quot;Integrating geometric models, site images and GIS based on Google Earth and Keyhole Markup Language.&quot; <i>Automation in Construction</i>. 89(2018):317-331.'
-
-
 
 
 
