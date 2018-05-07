@@ -5,7 +5,7 @@ permalink: https://www.sciencedirect.com/science/article/pii/S0926580517303333
 excerpt: 'This paper is about heterogeneous information integration and visualization for site information magement. It Integrates unordered images, geometric models and the 3D GIS based on Google Earth and Keyhole Markup Language.
 
 <div align="center">
-  <img src="/images/image-alignment-1200x4002.jpg" width="700px" />
+  <img src="/images/18-autocon-01-frame.jpg" width="700px" />
   <p>Methodology overview.</p>
 </div>
 '
