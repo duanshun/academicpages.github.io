@@ -4,9 +4,10 @@ collection: publications
 permalink: https://www.sciencedirect.com/science/article/pii/S0926580517303333
 excerpt: 'This paper is about heterogeneous information integration and visualization for site information magement using KML and Google Earth. 
 
-![GitHub Logo](/images/image-alignment-300x200.jpg)
-
-
+<div align="center">
+  <img src="/images/image-alignment-300x200.jpg" width="700px" />
+  <p>Methodology overview.</p>
+</div>
 '
 date: 2018-02-01
 venue: 'Journal 1'
