@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
 Duanshun Li is a Ph.D Candidate in Civil Engineering at University of Alberta, supervised by Prof. Ming Lu. 
 I received my MSc degree in Photogrammetry and Remonte Sensing and a Bachelor degree in Goematics Engineering both from Wuhan University.
 
@@ -17,9 +19,5 @@ I am currently reparing to graduate and actively looking for job oppurtunities i
 
 Email: d.shun.lee@gmail.com
 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| ![GitHub Logo](/images/mstile-144x144.png)     | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+======
+![GitHub Logo](/images/mstile-144x144.png)
