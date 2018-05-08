@@ -77,12 +77,7 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant, CIVE 406 (Construction Estimation, Planning and Control), 2014 Fall
+* Teaching Assistant, CIVE 406 (Construction Estimation, Planning and Control), 2015 Fall
+* Teaching Assistant, CIVE 601 (Project Management), 2015 Winter
 
-[comment]: <> (  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-)
