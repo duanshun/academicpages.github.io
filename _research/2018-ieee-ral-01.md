@@ -8,6 +8,18 @@ excerpt: 'This project aims to obtain the parametric model of basic primitives f
   <img src="/images/18-ieee-ral-01-teaser.png" width="700px" />
   <p>Methodology overview.</p>
 </div>
+
+Primitive fitting on a simulated test range image
+(top left) with BAGSFit (middle right) vs. RANSAC (top
+right). Estimated normals (middle left) and ground truth
+labels (bottom left) are used to train a fully convolutional segmentation
+network in BAGSFit. During testing, a boundaryaware
+and thus instance-aware segmentation (bottom right)
+is predicted, and sent through a geometric verification to fit
+final primitives (randomly colored). Comparing with BAGSFit,
+the RANSAC-based method produces more misses and
+false detections of primitives (shown as transparent or wireframe),
+and thus a less appealing visual result.
 '
 ---
 
@@ -37,3 +49,15 @@ it with both simulated and real-world point clouds.
   <img src="/images/18-ieee-ral-01-teaser.png" width="700px" />
   <p>Methodology overview.</p>
 </div>
+
+Primitive fitting on a simulated test range image
+(top left) with BAGSFit (middle right) vs. RANSAC (top
+right). Estimated normals (middle left) and ground truth
+labels (bottom left) are used to train a fully convolutional segmentation
+network in BAGSFit. During testing, a boundaryaware
+and thus instance-aware segmentation (bottom right)
+is predicted, and sent through a geometric verification to fit
+final primitives (randomly colored). Comparing with BAGSFit,
+the RANSAC-based method produces more misses and
+false detections of primitives (shown as transparent or wireframe),
+and thus a less appealing visual result.
