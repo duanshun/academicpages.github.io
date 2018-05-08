@@ -3,7 +3,8 @@ title: "Deep Geometric Learning"
 collection: research
 permalink: /research/2018-ieee-ral-01
 excerpt: 'This project aims to obtain the parametric model of basic primitives from noisy point cloud.
-
+image: /images/18-ieee-ral-01-teaser.png
+imagedesc: "test"
 <div align="center">
   <img src="/images/18-ieee-ral-01-teaser.png" width="700px" />
   <p>Primitive fitting on a simulated test range image
