@@ -21,10 +21,29 @@ Work experience
   * Mitsubish Electric Research Laboratories (MERL)
   * Duties included: 3D perception from point clouds
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2015 - April 2017: Research Intern
+  * Ledcor Group: Construction and Building Contractors
+  * Duties included: 
+    * Develop systems for heterogeneous site information management
+	* Develop automated planning system for earthwork projects
+	* BIM modeling for bidding and construction management
+  * Supervisor: Rod Wales (Vice Preisident Operations at Ledcor)
+  
+* April 2014 - Dec 2015: Research Intern
+  * The City of Edmonton
+  * Duties included: 
+    * Develop and evaluate an underground navigation system for tunnel boring machine (TBM) control.
+	* Develop excavator pose estimation systems and error evaluation methods for safe excavation.
+  * Supervisor: Rod Wales (Vice Preisident Operations at Ledcor)
+
+* April 2014 - Dec 2015: Research Assistant
+  * Company NameWuhan Tianjihang Information Technologies Inc., Ltd.
+  * Duties included: 
+    * Develop 3D reconstruction/SLAM algorithms for panoramic images.
+	* Infrastructure damage detection from images.
+	* Real-time interpolation and vasiualization of currents.
+	* Develop a photogrammetry software based on Nvidia stereo glasses. 
+  * Supervisor: Fei Deng (Professor at Wuhan University)
   
 Skills
 ======
@@ -57,7 +76,9 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+[comment]: <> (  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+)
