@@ -18,4 +18,8 @@ I am currently reparing to graduate and actively looking for job oppurtunities i
 Email: d.shun.lee@gmail.com
 
 
-![GitHub Logo](images/mstile-70x70.png)
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| ![GitHub Logo](/images/mstile-144x144.png)     | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
