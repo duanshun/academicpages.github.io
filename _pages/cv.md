@@ -53,9 +53,10 @@ Skills
 * Computer Vision
   * Caffe 
   * OpenCV
+  * ROS
   * PCL
   * MeshLab
-  * ROS
+  * CGAL
 * Programming Languages
   * C/C++
   * Python
