@@ -37,7 +37,7 @@ Work experience
   * Duties included: 
     * Develop and evaluate an underground navigation system for tunnel boring machine (TBM) control.
 	* Develop excavator pose estimation systems and error evaluation methods for safe excavation.
-  * Supervisor: Rod Wales (Vice Preisident Operations at Ledcor)
+  * Supervisor: 
 
 * April 2014 - Dec 2015: Research Assistant
   * Company NameWuhan Tianjihang Information Technologies Inc., Ltd.
@@ -69,11 +69,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
   
 Teaching
 ======
