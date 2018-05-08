@@ -19,14 +19,17 @@ Work experience
 ======
 * May 2017 - Nov 2017: Research Intern
   * Mitsubish Electric Research Laboratories (MERL)
-  * Duties included: 3D perception from point clouds
+  * Duties included: 
+    * 3D perception from point clouds
+	* Efficient manifold learning for large datasets
+	* T-Spline based 3D modeling 
 
 * Jan 2015 - April 2017: Research Intern
   * Ledcor Group: Construction and Building Contractors
   * Duties included: 
-    * Develop systems for heterogeneous site information management
-	* Develop automated planning system for earthwork projects
-	* BIM modeling for bidding and construction management
+    * Develop systems for heterogeneous site information management.
+	* Develop automated planning system for earthwork projects.
+	* BIM modeling for bidding and construction management.
   * Supervisor: Rod Wales (Vice Preisident Operations at Ledcor)
   
 * April 2014 - Dec 2015: Research Intern
