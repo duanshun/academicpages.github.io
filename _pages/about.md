@@ -25,7 +25,7 @@ Email: d.shun.lee@gmail.com
 Working Experience 
 ======
 
-![MERL](/images/merl-logo.png) 
+![MERL](/images/merl-logo.jpg) 
 ![LEDCOR](/images/ledcor-logo.jpg)]
 ![EDMONTON](/images/city-edmonton-logo.png)
 ![TJH](/images/tjh-logo.png)
