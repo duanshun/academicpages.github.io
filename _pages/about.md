@@ -31,4 +31,4 @@ Working Experience
 <img style="float: center;" src="/images/city-edmonton-logo.png">
 <img style="float: center;" src="/images/tjh-logo.png">
 
-% include logo.html %}
+{% include logo.html %}
