@@ -3,11 +3,7 @@ title: "Deep Geometric Learning"
 collection: research
 permalink: /research/2018-ieee-ral-01
 image: "/images/18-ieee-ral-01-teaser.png"
-imagedesc: 'test'
-excerpt: 'This project aims to obtain the parametric model of basic primitives from noisy point cloud.
-<div align="center">
-  <img src="/images/18-ieee-ral-01-teaser.png" width="700px" />
-  <p>Primitive fitting on a simulated test range image
+imagedesc: 'Primitive fitting on a simulated test range image
 (top left) with BAGSFit (middle right) vs. RANSAC (top
 right). Estimated normals (middle left) and ground truth
 labels (bottom left) are used to train a fully convolutional segmentation
@@ -17,9 +13,8 @@ is predicted, and sent through a geometric verification to fit
 final primitives (randomly colored). Comparing with BAGSFit,
 the RANSAC-based method produces more misses and
 false detections of primitives (shown as transparent or wireframe),
-and thus a less appealing visual result.</p>
-</div>
-'
+and thus a less appealing visual result.'
+excerpt: 'This project aims to obtain the parametric model of basic primitives from noisy point cloud.
 ---
 
 
