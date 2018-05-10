@@ -14,7 +14,7 @@ final primitives (randomly colored). Comparing with BAGSFit,
 the RANSAC-based method produces more misses and
 false detections of primitives (shown as transparent or wireframe),
 and thus a less appealing visual result.'
-excerpt: 'This project aims to obtain the parametric model of basic primitives from noisy point cloud.
+excerpt: 'This project aims to obtain the parametric model of basic primitives from noisy point cloud.'
 ---
 
 
