@@ -22,7 +22,7 @@ Email: d.shun.lee@gmail.com
 
 
 
-Working Experience 
+Working/Intern Experience 
 ======
 
 {% include logos.html %}
