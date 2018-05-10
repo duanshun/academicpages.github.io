@@ -25,8 +25,8 @@ Email: d.shun.lee@gmail.com
 Working Experience 
 ======
 
-[![MERL](/images/merl-logo.png)] (http://www.merl.com/) Mitsubish Electric Research Laboratories
-[![LEDCOR](/images/ledcor-logo.jpg)] (http://www.ledcor.com/home) Ledcor Canada
-[![EDMONTON](/images/city-edmonton-logo.png)] (https://www.edmonton.ca/) The City of Edmonton
-[![TJH](/images/tjh-logo.png)] (https://www.edmonton.ca/) Tian Ji Hang Information Technology Co.,Ltd 
+![MERL](/images/merl-logo.png) 
+![LEDCOR](/images/ledcor-logo.jpg)]
+![EDMONTON](/images/city-edmonton-logo.png)
+![TJH](/images/tjh-logo.png)
 
