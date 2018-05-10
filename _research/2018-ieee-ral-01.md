@@ -17,7 +17,7 @@ and thus a less appealing visual result.'
 excerpt: 'This project aims to obtain the parametric model of basic primitives from noisy point cloud.'
 ---
 
-
+<div class="align-justify">
 To identify and fit geometric primitives (e.g.,
 planes, spheres, cylinders, cones) in a noisy point cloud is
 a challenging yet beneficial task for fields such as robotics
@@ -38,6 +38,7 @@ all hypotheses are sent through a geometric verification to
 correct any misclassification by fitting primitives respectively.
 We performed training using simulated range images and tested
 it with both simulated and real-world point clouds.
+</div>
 
 <div align="center">
   <img src="/images/18-ieee-ral-01-teaser.png" width="700px" />
