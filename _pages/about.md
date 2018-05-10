@@ -26,7 +26,7 @@ Working Experience
 ======
 
 ![MERL](/images/merl-logo.jpg =x50) 
-![LEDCOR](/images/ledcor-logo.jpg=x50)
-![EDMONTON](/images/city-edmonton-logo.png=x50)
-![TJH](/images/tjh-logo.png=x50)
+![LEDCOR](/images/ledcor-logo.jpg =x50)
+![EDMONTON](/images/city-edmonton-logo.png =x50)
+![TJH](/images/tjh-logo.png =x50)
 
