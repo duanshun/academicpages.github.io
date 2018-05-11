@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Duanshun Li is a Ph.D Candidate in Civil Engineering at University of Alberta, supervised by Prof. Ming Lu. 
+Duanshun Li is a Ph.D Candidate in Civil Engineering at University of Alberta, supervised by [Prof. Ming Lu](https://www.ualberta.ca/engineering/research/departmental/civil-and-environmental-engineering-research/construction/ming-lu). 
 I received my MSc degree in Photogrammetry and Remonte Sensing and a Bachelor degree in Goematics Engineering both from Wuhan University.
 
 My research include computer vision, machine learning, and their applications in the engineering fields.
