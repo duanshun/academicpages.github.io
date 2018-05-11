@@ -20,6 +20,12 @@ I am currently reparing to graduate and actively looking for job oppurtunities i
 Email: d.shun.lee@gmail.com
 
 
+Worked At
+======
+
+{% include logos.html %}
+
+
 Publications
 ======
 ## Refereed Journal Publications
@@ -51,8 +57,3 @@ Deng F., and **Li D.** (2013). Stitching error and perspective approximation acc
 Deng F., **Li D.**, Yan L., Fan H. (2012). Automatic Texture Mapping With An Omnidirectional Camera Mounted On A Vehicle Towards Large Scale 3d City Models, _International Society for Photogrammetry and Remote Sensing_, XXXIX-B1, p.355-360.
 
 Deng F., **Li D.**, Zhao Z., Hu Y. (2012). Cultural Heritage Reconstruction System Based On Structure from Motion, _International Conference on Remote Sensing and Applications_, Beijing, China.
-
-Worked At
-======
-
-{% include logos.html %}
