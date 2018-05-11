@@ -40,7 +40,7 @@ Work experience
   * Supervisor: 
 
 * April 2014 - Dec 2015: Research Assistant
-  * Company NameWuhan Tianjihang Information Technologies Inc., Ltd.
+  * Wuhan Tianjihang Information Technologies Inc., Ltd.
   * Duties included: 
     * Develop 3D reconstruction/SLAM algorithms for panoramic images.
 	* Infrastructure damage detection from images.
