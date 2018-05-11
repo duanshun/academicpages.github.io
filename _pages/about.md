@@ -18,8 +18,9 @@ My research include computer vision, machine learning, and their applications in
 I am currently reparing to graduate and actively looking for job oppurtunities in computer vision related jobs.    
 
 Email: d.shun.lee@gmail.com
-
 <br>
+
+
 Worked At
 ======
 
