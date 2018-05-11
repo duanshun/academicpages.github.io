@@ -10,6 +10,6 @@ author_profile: false
 {% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %}
-{% for post in site.publication reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
