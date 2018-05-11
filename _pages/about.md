@@ -19,7 +19,6 @@ I am currently reparing to graduate and actively looking for job oppurtunities i
 
 Email: d.shun.lee@gmail.com
 
-{% include slidegallery.html %}
 
 Publications
 ======
