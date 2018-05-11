@@ -52,7 +52,7 @@ Deng F., **Li D.**, Yan L., Fan H. (2012). Automatic Texture Mapping With An Omn
 
 Deng F., **Li D.**, Zhao Z., Hu Y. (2012). Cultural Heritage Reconstruction System Based On Structure from Motion, _International Conference on Remote Sensing and Applications_, Beijing, China.
 
-Worked AT
+Worked At
 ======
 
 {% include logos.html %}
