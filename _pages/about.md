@@ -24,7 +24,7 @@ Worked At
 ======
 
 {% include logos.html %}
-
+<br><br>
 
 Publications
 ======
