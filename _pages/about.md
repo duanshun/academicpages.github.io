@@ -15,7 +15,7 @@ I received my MSc degree in Photogrammetry and Remonte Sensing and a Bachelor de
 
 My research include computer vision, machine learning, and their applications in the engineering fields.
 
-I am currently reparing to graduate and actively looking for job oppurtunities in computer vision related jobs.    
+I am currently preparing to graduate and actively looking for job oppurtunities in computer vision related jobs.    
 
 Email: d.shun.lee@gmail.com
 <br>
