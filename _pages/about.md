@@ -45,7 +45,7 @@ Publications
 ## Conference Publications
 **Li D.**, Yi, D., and Lu M. (2017). Automated Project Planning And Resource Constrained Scheduling On A Rough Grading Project, _International Workshop on Computing in Civil Engineering_, Seattle, USA.
 
-**Li D.**, Mao S., and Lu, M. (2015). Analytical comparison of distance based and angle based Kinematic model for backhoe excavators bucket tip positioning, _International Conference on Construction Applications of Virtual Reality_, Banff, Canada
+Mao S., **Li D.**, and Lu, M. (2015). Analytical comparison of distance based and angle based Kinematic model for backhoe excavators bucket tip positioning, _International Conference on Construction Applications of Virtual Reality_, Banff, Canada
 
 **Li D.**, Liu C., and Lu M. (2015). Optimizing earthwork hauling plan with minimum cost flow network, _International Construction Specialty Conference_, Vancouver, Canada.
 
